@@ -2,7 +2,7 @@
 name: Bug report
 about: Have an issue with 10to7? Report it here
 title: ''
-labels: question
+labels: bug
 assignees: ''
 
 ---
