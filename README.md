@@ -15,4 +15,14 @@ This repo is used to report issues / suggest features in the Windows 10 to 7 Tra
 
 You can download [the transformation pack here](https://www.deviantart.com/imswordqueeen/art/1081353677)
 
+# Issues Rules
+
+1. Do not make duplicate issues. Making duplicate issues would not make me want to fix them faster.
+
+2. Please use the correct issues template and format. It would help me a lot.
+
+3. Keep in mind that this Transformation Pack would never be 1:1 to Windows 7. So please don't submit small and insignificant text changes.
+
+4. Keep it civil.
+
 </div>
