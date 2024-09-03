@@ -1,7 +1,7 @@
 ---
 name: Language Pack Bug report
 about: Have an issue with the Language Pack Installer? Report it here
-title: '[Language Pack][ADD YOUR LOCALE HERE] *Issue*'
+title: '[ADD YOUR LOCALE HERE]'
 labels: Language Pack Issue
 assignees: ''
 
