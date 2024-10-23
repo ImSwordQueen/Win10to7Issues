@@ -5,9 +5,6 @@ labels: [Language Pack Issue]
 assignees: []
 
 body:
-  - type: markdown
-    attributes:
-      value: |
   - type: checkboxes
     attributes:
       label: Before reporting your issue
