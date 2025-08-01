@@ -14,7 +14,7 @@ This repo is used to report issues / suggest features in the Windows 10 to 7 Tra
 # Download
 
 You can download [the transformation pack here](https://www.deviantart.com/imswordqueeen/art/1081353677)
-Current Version: 3.6.1.1
+Current Version: 3.6.1.2
 
 # Issues Rules
 
